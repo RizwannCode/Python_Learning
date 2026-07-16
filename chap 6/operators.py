@@ -86,6 +86,3 @@ print(a & b)    # 1 in binary- 0001
 
 # Rule for OR '|' operator
 # True + False = True adwwwwwwww
-
-
-uyuy
