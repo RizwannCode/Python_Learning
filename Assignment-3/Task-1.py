@@ -1,4 +1,5 @@
-# Q2: write a simple program to determine if a given year is a leap year using user input.
+# Q1: write a simple program to determine if a given year is a leap year using user input.
+
 print("Leap Year Checking Program: ")
 
 year=int(input("Enter Any Year (eg.2026): "))
