@@ -20,3 +20,14 @@
 
 # print(f"Your Profile Details \n {user_data}")
 
+#swapping two variable.
+
+a=5
+b=6
+a=a+b
+b=a-b
+a=a-b
+
+
+print(a)
+print(b)
